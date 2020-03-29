@@ -27,7 +27,7 @@ with open(report_path,"wb") as f:
     runner.run(suite)
 
 
-
+print("GitHub端修改")
 
 
 
